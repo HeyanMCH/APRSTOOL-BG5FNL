@@ -313,33 +313,33 @@ class APRSApp:
                     ">": {"name": "汽车", "color": "red"},
                     "<": {"name": "摩托车", "color": "blue"},
                     "v": {"name": "面包车", "color": "green"},
-                    "^": {"name": "小货车", "color": "purple"},
-                    "L": {"name": "气象站", "color": "cyan"},
-                    "K": {"name": "火警", "color": "orange"},
-                    "H": {"name": "房屋", "color": "brown"},
-                    "h": {"name": "酒店", "color": "pink"},
-                    "b": {"name": "船", "color": "navy"},
-                    "B": {"name": "潜水艇", "color": "teal"},
-                    "Y": {"name": "飞机", "color": "gray"},
-                    "O": {"name": "应急地点", "color": "magenta"},
-                    "E": {"name": "紧急医疗服务", "color": "darkred"}
+                    "^": {"name": "大型飞机", "color": "purple"},
+                    "L": {"name": "PC 用户", "color": "cyan"},
+                    "K": {"name": "学校", "color": "orange"},
+                    "H": {"name": "酒店", "color": "brown"},
+                    "h": {"name": "医院", "color": "pink"},
+                    "b": {"name": "自行车", "color": "navy"},
+                    "B": {"name": "BBS", "color": "teal"},
+                    "Y": {"name": "帆船", "color": "gray"},
+                    "O": {"name": "气球", "color": "magenta"},
+                    "C": {"name": "独木舟", "color": "darkred"}
                 }
             },
             "secondary": {
                 "\\": {
-                    ">": {"name": "救护车", "color": "red"},
-                    "<": {"name": "自行车", "color": "blue"},
-                    "v": {"name": "卡车", "color": "green"},
-                    "^": {"name": "巴士", "color": "purple"},
-                    "L": {"name": "闪电", "color": "cyan"},
-                    "K": {"name": "学校", "color": "orange"},
-                    "H": {"name": "医院", "color": "brown"},
-                    "h": {"name": "露营地", "color": "pink"},
-                    "b": {"name": "帆船", "color": "navy"},
-                    "B": {"name": "军用船", "color": "teal"},
-                    "Y": {"name": "直升机", "color": "gray"},
-                    "O": {"name": "危险区域", "color": "magenta"},
-                    "E": {"name": "紧急情况", "color": "darkred"}
+                    ">": {"name": "红色汽车", "color": "red"},
+                    "<": {"name": "单个红色旗帜", "color": "blue"},
+                    "t": {"name": "龙卷风", "color": "green"},
+                    "^": {"name": "飞机", "color": "purple"},
+                    "L": {"name": "灯塔", "color": "cyan"},
+                    "N": {"name": "导航浮标", "color": "orange"},
+                    "H": {"name": "薄雾", "color": "brown"},
+                    "h": {"name": "商店", "color": "pink"},
+                    "b": {"name": "沙尘", "color": "navy"},
+                    "B": {"name": "吹雪", "color": "teal"},
+                    "S": {"name": "卫星", "color": "gray"},
+                    "O": {"name": "火箭", "color": "magenta"},
+                    "J": {"name": "闪电", "color": "darkred"}
                 }
             }
         }
